@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PM1E1Luis</string>
+
+    <string name="Captura">Captura de Información</string>
+    <string name="Pais">Pais</string>
+    <string name="Nombre">Nombre Completos</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Nota">Notas</string>
+    <string name="btnGuardar">Guardar Contacto</string>
+    <string name="btnMostrar">Contactos Guardados</string>
+    <string name="btntakefoto">Tomar Foto</string>
+    <string name="Respuesta">Registro ingresado con exito</string>
+    <string name="ErrorResp">Registro ingresado con exito</string>
+
+
+</resources>
