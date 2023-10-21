@@ -15,7 +15,6 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.pm1e1luis.MainActivity;
 import com.example.pm1e1luis.R;
 import com.example.pm1e1luis.configuracion.SQLiteConexion;
 import com.example.pm1e1luis.configuracion.Transacciones;

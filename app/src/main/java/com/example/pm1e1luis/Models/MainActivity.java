@@ -1,4 +1,4 @@
-package com.example.pm1e1luis;
+package com.example.pm1e1luis.Models;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-import com.example.pm1e1luis.Models.ListaActivity;
+import com.example.pm1e1luis.R;
 import com.example.pm1e1luis.configuracion.Transacciones;
 import com.example.pm1e1luis.configuracion.SQLiteConexion;
 
