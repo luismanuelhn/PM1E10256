@@ -167,7 +167,7 @@ public class ListaActivity extends AppCompatActivity {
     private void mostrarAlertDialog(final int selectedData) {
         AlertDialog.Builder builder = new AlertDialog.Builder(ListaActivity.this);
         builder.setTitle("Confirmación");
-        builder.setMessage("¿Deseas ver este registro?");
+        builder.setMessage("¿Deseas lLAMAR a este Numero?");
 
         builder.setPositiveButton("Sí", new DialogInterface.OnClickListener() {
             @Override
